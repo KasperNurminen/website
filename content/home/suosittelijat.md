@@ -12,13 +12,5 @@ widget = "custom"
 # Order that this section will appear in.
 weight = 7
 +++
-<!--
-## Vesa-Matti Salomäki, Suomen Punainen Risti
 
-_F2F-koordinaattori_
-
-Esimieheni Suomen Punaisella Ristillä _2014-2015_
-
-#### vesa-matti.salomaki@punainenristi.fi, 020 701 2014
-
--->
+Tiedot piilotettu asianosaisten henkilötietojen suojaamiseksi. Kysy sähköpostilla/tekstarilla lisätietoja.

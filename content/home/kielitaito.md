@@ -12,11 +12,24 @@ widget = "custom"
 # Order that this section will appear in.
 weight = 4
 +++
+ <table>
+<thead>
+</thead>
 
+<tbody>
+<tr>
+<td>suomi</td>
+<td>äidinkieli</td>
+</tr>
 
+<tr>
+<td>englanti</td>
+<td>erinomainen</td>
+</tr>
 
- kielitaito |  
---- | ---
-suomi | äidinkieli
-englanti | erinomainen
-ruotsi | tyydyttävä (pitkä oppimäärä lukiossa)
+<tr>
+<td>ruotsi</td>
+<td>tyydyttävä (pitkä oppimäärä lukiossa)</td>
+</tr>
+</tbody>
+</table>
